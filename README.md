@@ -33,7 +33,7 @@
 - Phosphor Icons
 
 --
-## 🖼️ Galleery
+## 🖼️ Gallery
 
 ![preview](./.github/preview-2.png)
 
